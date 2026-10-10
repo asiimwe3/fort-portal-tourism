@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asiimwe3.github.io/fort-portal-tourism/sitemap.xml
